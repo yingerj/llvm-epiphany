@@ -25,6 +25,7 @@ subdirectories =
  AVR
  BPF
  CppBackend
+ Epiphany
  Hexagon
  MSP430
  NVPTX
