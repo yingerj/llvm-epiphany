@@ -45,7 +45,7 @@ include "EpiphanyCallingConv.td"
 // Instruction Descriptions
 //===----------------------------------------------------------------------===//
 
-include "EpiphanyRegisterInfo.td"
+include "EpiphanyInstrInfo.td"
 
 def EpiphanyInstrInfo : InstrInfo;
 

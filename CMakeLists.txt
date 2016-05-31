@@ -207,6 +207,7 @@ set(LLVM_ALL_TARGETS
   ARM
   BPF
   CppBackend
+  Epiphany
   Hexagon
   Mips
   MSP430
